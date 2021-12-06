@@ -11,11 +11,5 @@ RSS订阅这种信息获取方式感觉在国内使用的人数应该是比较�
 传输信息（微信 or email）
 
 
-![testpic.jpg](testpic.jpg)
-![bath.png](bath.png)
-![../../../attachments/QQ图片20210809192456.jpg](../../../attachments/QQ图片20210809192456.jpg)
-![布局1](布局1.png)
-[测试](测试citation插件.md)
-[测试citation插件](../测试citation插件.md)
-[@asterGlacialSeismology2017](zotero-notes/@asterGlacialSeismology2017.md)
-[[@bardHVUserGuidelines2004]]
+![[bath.png]]
+![[testpic.jpg]]
