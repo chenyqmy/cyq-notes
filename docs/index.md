@@ -1,15 +1,5 @@
-# cyq-notes-publish-test
-Welcome to Foam-mkdocs-template! [[#support roamlinks]]!
+# 这就是首页了
 
 
-
-## Support roamlinks
-
-| origin                  | convert                             |
-| ----------------------- | ----------------------------------- |
-| `[Git Flow](git_flow.md)` | `[Git Flow](../software/git_flow.md)` |
-| `[[Git Flow]]`            | `[Git Flow](../software/git_flow.md)` |
-| `![[image.png]]`           | `![image.png](../image/imag.png)`      |
-| `[[#Heading identifiers]]` | `[Heading identifiers in HTML](#heading-identifiers-in-html)`|
-| `[[Git Flow#Heading]]`     |  `[Git Flow](../software/git_flow.md#heading)` |
-
+![[曼陀罗.jpg]]
+曼陀罗
