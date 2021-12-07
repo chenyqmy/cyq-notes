@@ -9,7 +9,8 @@ theme:
   language: zh # 中文，解决中文搜索问题
   features:
     - navigation.expand 
-    - tabs 
+    - tabs
+  favicon: attachment/favicon.jpg
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
   - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
