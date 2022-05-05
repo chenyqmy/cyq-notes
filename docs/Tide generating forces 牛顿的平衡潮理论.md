@@ -21,3 +21,5 @@ All points on earth have the exact same centrifugal force for earth moon system.
 ![[Pasted image 20220310202550.png]]
 
 ==地球没有自转==
+
+[[index]]
